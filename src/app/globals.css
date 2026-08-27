@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  /* Spectrum Brand Palette */
+  --navy-900: #0f172a;
+  --navy-950: #020617;
+  --teal-500: #14b8a6;
+  --teal-600: #0d9488;
+  --slate-50: #f8fafc;
+
+  --background: #ffffff;
+  --foreground: #020617;
+}
+
+@theme inline {
+  /* Color Mappings */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-navy-900: var(--navy-900);
+  --color-navy-950: var(--navy-950);
+  --color-teal-500: var(--teal-500);
+  --color-teal-600: var(--teal-600);
+  --color-slate-50: var(--slate-50);
+
+  /* Font Mappings */
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui;
+  --font-mono: var(--font-geist-mono), ui-monospace, SFMono-Regular;
+
+  /* Custom Animations */
+  --animate-bounce-slow: bounce-slow 3s ease-in-out infinite;
+
+  @keyframes bounce-slow {
+    0%,
+    100% {
+      transform: translateY(-8px);
+    }
+    50% {
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Force Light Mode for Clinical Aesthetic (Optional but recommended for Medical) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #ffffff;
+    --foreground: #020617;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}

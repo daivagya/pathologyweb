@@ -45,17 +45,13 @@ const Hero = () => {
           {/* Unique Machinery Display */}
           <div className="relative">
             <div className="relative z-10 aspect-[4/5] bg-white rounded-3xl p-8 shadow-[0_32px_64px_-16px_rgba(0,0,0,0.1)] border border-slate-100 transition-transform duration-700 hover:scale-[1.02]">
-              <div className="w-full h-full bg-slate-50 rounded-2xl border border-dashed border-slate-200 flex flex-col items-center justify-center p-12 text-center">
-                {/* Product Image will go here */}
-                <div className="w-32 h-32 mb-6 rounded-full bg-white shadow-inner flex items-center justify-center">
-                  <div className="w-12 h-1 bg-teal-500 rounded-full animate-pulse"></div>
-                </div>
-                <h3 className="text-navy-900 font-bold text-xl uppercase tracking-widest">
-                  SPX-H3000
-                </h3>
-                <p className="text-slate-400 text-sm mt-2">
-                  Flagship 5-Part Hematology System
-                </p>
+              <div className="w-full h-full bg-slate-50 rounded-2xl flex items-center justify-center p-8 text-center">
+                {/* Product Image */}
+                <img
+                  src="/Screenshot%202026-08-27%20201140.png"
+                  alt="SPX-H3000 Flagship Hematology Analyzer"
+                  className="w-full h-full object-contain"
+                />
               </div>
 
               {/* The "Bounce Slow" Badge */}

@@ -33,17 +33,17 @@ const Navbar = () => {
             Certifications
           </Link>
           <Link
-            href="/resources"
+            href="/catalogs"
             className="hover:text-teal-600 transition-colors"
           >
-            Resources
+            Catalogs
           </Link>
         </div>
 
         {/* Action Button */}
         <div className="flex items-center gap-4">
           <Link
-            href="/contact"
+            href="/support"
             className="hidden sm:block text-sm font-semibold text-navy-950 hover:opacity-70"
           >
             Support

@@ -21,16 +21,9 @@ const categories = [
   {
     title: "Immunology",
     description: "High-sensitivity chemiluminescence systems.",
-    count: "03 Models",
+    count: "02 Models",
     link: "/products/immunology",
     size: "small",
-  },
-  {
-    title: "Urinalysis",
-    description: "Integrated strip reading and sediment microscopy.",
-    count: "04 Models",
-    link: "/products/urinalysis",
-    size: "medium",
   },
 ];
 

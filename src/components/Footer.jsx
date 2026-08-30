@@ -48,15 +48,10 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/products/urinalysis"
+                  href="/products/immunology"
                   className="hover:text-teal-600"
                 >
-                  Urinalysis
-                </Link>
-              </li>
-              <li>
-                <Link href="/products/poct" className="hover:text-teal-600">
-                  POCT Systems
+                  Immunology
                 </Link>
               </li>
             </ul>

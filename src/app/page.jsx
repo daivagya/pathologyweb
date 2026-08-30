@@ -5,7 +5,6 @@ import Hero from "@/components/HeroSection";
 import Manufacturing from "@/components/Manufacturing";
 import MetricsBar from "@/components/MetricsBar";
 import Support from "@/components/Support";
-
 import React from "react";
 
 const page = ({ children }) => {

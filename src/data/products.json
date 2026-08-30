@@ -1,0 +1,257 @@
+[
+  {
+    "id": "spx-h3000",
+    "name": "SPX-H3000",
+    "category": "hematology",
+    "tagline": "Flagship 5-Part Hematology System",
+    "description": "Reference-grade analyzer for high-volume core labs with flagship precision. Delivers a complete CBC with 5-part differential and NRBC enumeration in a single walkaway workflow.",
+    "image": "/Screenshot%202026-08-27%20201140.png",
+    "throughput": "80 S/H",
+    "parameters": "29 Parameters",
+    "specs": [
+      "CBC + 5-Part DIFF + NRBC",
+      "Timing-gated flow cytometry",
+      "Closed & open tube sampling",
+      "Auto reticulocyte mode"
+    ],
+    "featured": true
+  },
+  {
+    "id": "spx-h2600",
+    "name": "SPX-H2600",
+    "category": "hematology",
+    "tagline": "High-Throughput 5-Part Analyzer",
+    "description": "Balanced workload hematology for mid-to-large laboratories. Combines a generous sample loader with slide-free digital review for uninterrupted shift throughput.",
+    "image": "/Screenshot%202026-08-27%20201151.png",
+    "throughput": "60 S/H",
+    "parameters": "29 Parameters",
+    "specs": [
+      "CBC + 5-Part DIFF",
+      "Slide-free digital review",
+      "48-position sample loader",
+      "Auto-dilution & re-run"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-h2000",
+    "name": "SPX-H2000",
+    "category": "hematology",
+    "tagline": "Compact 5-Part System",
+    "description": "Compact footprint with 5-part performance for satellite laboratories. Capillary and venous sampling support make it ideal for space-constrained clinical environments.",
+    "image": "/Screenshot%202026-08-27%20201211.png",
+    "throughput": "60 S/H",
+    "parameters": "26 Parameters",
+    "specs": [
+      "CBC + 5-Part DIFF",
+      "Capillary & venous sampling",
+      "Onboard QC & calibration",
+      "LIS bi-directional interface"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-h1800",
+    "name": "SPX-H1800",
+    "category": "hematology",
+    "tagline": "Modular 5-Part Analyzer",
+    "description": "Reliable everyday hematology with rugged, low-maintenance optics. Small sample volumes and dual measuring channels keep turnaround fast and reagent costs down.",
+    "image": "/Screenshot%202026-08-27%20201228.png",
+    "throughput": "45 S/H",
+    "parameters": "26 Parameters",
+    "specs": [
+      "CBC + 5-Part DIFF",
+      "Dual measuring channels",
+      "Small sample volume (20 µL)",
+      "Long-life laser source"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-h1200",
+    "name": "SPX-H1200",
+    "category": "hematology",
+    "tagline": "Mid-Range 5-Part System",
+    "description": "Cost-efficient 5-part counting for growing clinical workloads. Frequency-based detection removes daily flushing requirements and simplifies maintenance.",
+    "image": "/Screenshot%202026-08-27%20201310.png",
+    "throughput": "45 S/H",
+    "parameters": "24 Parameters",
+    "specs": [
+      "CBC + 5-Part DIFF",
+      "No daily flushing required",
+      "Solid-state detection",
+      "Barcode sample ID"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-h800",
+    "name": "SPX-H800",
+    "category": "hematology",
+    "tagline": "3-Part Differential Analyzer",
+    "description": "Self-contained 3-part analyzer for clinics and small hospitals. Hydrodynamic focusing and a touchscreen workflow deliver dependable CBC results with minimal footprint.",
+    "image": "/Screenshot%202026-08-27%20201334.png",
+    "throughput": "60 S/H",
+    "parameters": "21 Parameters",
+    "specs": [
+      "CBC + 3-Part DIFF",
+      "Hydrodynamic focusing",
+      "Touchscreen workflow",
+      "Internal waste handling"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-h500",
+    "name": "SPX-H500",
+    "category": "hematology",
+    "tagline": "Compact 3-Part Analyzer",
+    "description": "Desktop 3-part hematology for point-of-collection testing. Whole blood and diluted modes add flexibility for outpatient and outreach laboratories.",
+    "image": "/Screenshot%202026-08-27%20201415.png",
+    "throughput": "45 S/H",
+    "parameters": "21 Parameters",
+    "specs": [
+      "CBC + 3-Part DIFF",
+      "Whole blood & diluted modes",
+      "USB / LIS connectivity",
+      "Auto calibration"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-h300",
+    "name": "SPX-H300",
+    "category": "hematology",
+    "tagline": "Benchtop 3-Part System",
+    "description": "Entry-level CBC analyzer for clinics and field laboratories. Minimal reagent consumption and an internal printer make it a practical choice for low-volume testing.",
+    "image": "/Screenshot%202026-08-27%20201424.png",
+    "throughput": "30 S/H",
+    "parameters": "18 Parameters",
+    "specs": [
+      "CBC + 3-Part DIFF",
+      "Minimal reagent consumption",
+      "Internal printer",
+      "8.4\" colour display"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-b4000",
+    "name": "SPX-B4000",
+    "category": "biochemistry",
+    "tagline": "Flagship Fully-Automated Chemistry",
+    "description": "Total-lab chemistry solution with concurrent ISE and reflex testing. Large onboard reagent capacity and automated rerun rules keep high-volume workflows moving.",
+    "image": "/Screenshot%202026-08-27%20201448.png",
+    "throughput": "800 T/H",
+    "parameters": "120+ Tests",
+    "specs": [
+      "Random-access discrete analysis",
+      "Integrated ISE module (Na/K/Cl)",
+      "240 onboard reagent positions",
+      "Reflex & rerun automation"
+    ],
+    "featured": true
+  },
+  {
+    "id": "spx-b3000",
+    "name": "SPX-B3000",
+    "category": "biochemistry",
+    "tagline": "High-Volume Chemistry System",
+    "description": "Cross-contamination-free chemistry for mid-to-large laboratories. Intelligent cuvette washing and active reagent cooling protect assay integrity hour after hour.",
+    "image": "/Screenshot%202026-08-27%20201516.png",
+    "throughput": "640 T/H",
+    "parameters": "100+ Tests",
+    "specs": [
+      "640 T/H with ISE",
+      "Intelligent cuvette washing",
+      "Cap-driven reagent cooling",
+      "Auto calibration & QC"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-b2000",
+    "name": "SPX-B2000",
+    "category": "biochemistry",
+    "tagline": "Mid-Tier Random Access Analyzer",
+    "description": "Open-system flexibility with barcode-guided sample handling. A rotating sample ring and rich assay menu make it suited to mixed or growing workloads.",
+    "image": "/Screenshot%202026-08-27%20202331.png",
+    "throughput": "400 T/H",
+    "parameters": "80+ Tests",
+    "specs": [
+      "400 T/H chemistry",
+      "Interactive graphics user interface",
+      "60-position sample ring",
+      "Open test system"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-b1600",
+    "name": "SPX-B1600",
+    "category": "biochemistry",
+    "tagline": "Compact Clinical Chemistry",
+    "description": "Space-saving analyzer that pairs high output with low reagent waste. An optional integrated ISE module broadens the test menu without adding bench space.",
+    "image": "/Screenshot%202026-08-27%20202426.png",
+    "throughput": "300 T/H",
+    "parameters": "60+ Tests",
+    "specs": [
+      "300 T/H photometric",
+      "Built-in ISE optional",
+      "Reloadable on-board supply",
+      "Eco power-save standby"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-b900",
+    "name": "SPX-B900",
+    "category": "biochemistry",
+    "tagline": "Bench-Top Chemistry System",
+    "description": "Simple, reliable chemistry for clinics and small hospital labs. One-touch start and auto-cleaning probe design keep operation straightforward for every operator.",
+    "image": "/Screenshot%202026-08-27%20202436.png",
+    "throughput": "240 T/H",
+    "parameters": "40+ Tests",
+    "specs": [
+      "240 T/H throughput",
+      "Intuitive one-touch start",
+      "Auto-clean probe",
+      "Compact benchtop design"
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-i6000",
+    "name": "SPX-I6000",
+    "category": "immunology",
+    "tagline": "High-Throughput CLIA System",
+    "description": "Flagship immunoassay platform with onboard dilution and reflex rules. Broad cardiovascular and endocrine menus in a single magnetic-separation CLIA walkaway system.",
+    "image": "/Screenshot%202026-08-27%20202455.png",
+    "throughput": "600 T/H",
+    "parameters": "90+ Assays",
+    "specs": [
+      "600 T/H magnetic-separation CLIA",
+      "Onboard STAT sample priority",
+      "Automatic de-bubbling",
+      "Extended calibration stability"
+    ],
+    "featured": true
+  },
+  {
+    "id": "spx-i4000",
+    "name": "SPX-I4000",
+    "category": "immunology",
+    "tagline": "Mid-Range Chemiluminescence",
+    "description": "Random-access immunoassay with a broad cardiovascular menu. Onboard refrigerated storage and automated re-run modes keep routine panels efficient.",
+    "image": "/Screenshot%202026-08-27%20202510.png",
+    "throughput": "400 T/H",
+    "parameters": "80+ Assays",
+    "specs": [
+      "400 T/H throughput",
+      "170 onboard reagent positions",
+      "Multi-line LIS connectivity",
+      "Automated re-run modes"
+    ],
+    "featured": false
+  }
+]
